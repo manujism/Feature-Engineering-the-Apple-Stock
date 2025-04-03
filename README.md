@@ -102,6 +102,11 @@ Feature engineering is the process of selecting, transforming, and creating rele
   6. Use advanced techniques like GARCH for volatility modeling.
 
 
+-----
+**7. Conclusions**
+
+This project successfully performed a detailed feature engineering and EDA on Apple's stock data. The engineered features provide a solid foundation for further analysis and predictive modeling. Insights into stock price trends, volatility, and trading activity are visually captured, offering valuable perspectives for trading strategies.
+
 
 
 
