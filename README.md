@@ -5,7 +5,7 @@
 
 ------
 
-Feature engineering is the process of selecting, transforming, and creating relevant input variables (features) that improve the predictive power of a machine learning model. In stock price prediction, good features can help capture market trends, patterns, and signals.
+
 
 
 ------
