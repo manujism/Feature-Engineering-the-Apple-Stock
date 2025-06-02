@@ -1,4 +1,4 @@
-# Feature-Engineering-the-Apple-Stock
+# 
 
 
 **This project aims to perform a comprehensive Feature Engineering and Exploratory Data Analysis (EDA) on Apple ( AAPL ) stock data.**
